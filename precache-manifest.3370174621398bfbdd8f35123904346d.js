@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98fea74414bf2a48672831e6a39ab7bf",
+    "revision": "79a3de67ac2ae46bc0f9c44ffe964f82",
     "url": "/random-quiz/index.html"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-quiz/static/js/2.419901a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5901cab98ca83a0d1a17",
-    "url": "/random-quiz/static/js/main.16817045.chunk.js"
+    "revision": "caf0debe96ecbeb29cab",
+    "url": "/random-quiz/static/js/main.26c69b34.chunk.js"
   },
   {
     "revision": "a027f5de5fb696eeb562",
     "url": "/random-quiz/static/js/runtime-main.1e7507d4.js"
   },
   {
-    "revision": "c11f97a3b321dad2ede69652d3f8a174",
-    "url": "/random-quiz/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+    "revision": "94dc69952576ca48eced61e00f1d6290",
+    "url": "/random-quiz/static/media/beautiful-sakura.94dc6995.jpg"
   }
 ]);

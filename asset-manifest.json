@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/random-quiz/static/js/main.16817045.chunk.js",
-    "main.js.map": "/random-quiz/static/js/main.16817045.chunk.js.map",
+    "main.js": "/random-quiz/static/js/main.26c69b34.chunk.js",
+    "main.js.map": "/random-quiz/static/js/main.26c69b34.chunk.js.map",
     "runtime-main.js": "/random-quiz/static/js/runtime-main.1e7507d4.js",
     "runtime-main.js.map": "/random-quiz/static/js/runtime-main.1e7507d4.js.map",
     "static/js/2.419901a3.chunk.js": "/random-quiz/static/js/2.419901a3.chunk.js",
     "static/js/2.419901a3.chunk.js.map": "/random-quiz/static/js/2.419901a3.chunk.js.map",
     "index.html": "/random-quiz/index.html",
-    "precache-manifest.0540234331603b9e5771c4c307d056c7.js": "/random-quiz/precache-manifest.0540234331603b9e5771c4c307d056c7.js",
+    "precache-manifest.3370174621398bfbdd8f35123904346d.js": "/random-quiz/precache-manifest.3370174621398bfbdd8f35123904346d.js",
     "service-worker.js": "/random-quiz/service-worker.js",
     "static/js/2.419901a3.chunk.js.LICENSE.txt": "/random-quiz/static/js/2.419901a3.chunk.js.LICENSE.txt",
-    "static/media/nattu-adnan-unsplash.jpg": "/random-quiz/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+    "static/media/beautiful-sakura.jpg": "/random-quiz/static/media/beautiful-sakura.94dc6995.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e7507d4.js",
     "static/js/2.419901a3.chunk.js",
-    "static/js/main.16817045.chunk.js"
+    "static/js/main.26c69b34.chunk.js"
   ]
 }
